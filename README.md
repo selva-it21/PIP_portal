@@ -1,4 +1,4 @@
-# schools_management
+# Parents Interactive Portal
 
 A new Flutter project.
 
